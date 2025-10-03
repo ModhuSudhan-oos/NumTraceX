@@ -1,0 +1,7 @@
+{
+  "project_name": "NumTraceX",
+  "version": "1.0.0",
+  "api_keys": {
+    "example_service": "YOUR_API_KEY_HERE"
+  }
+}
