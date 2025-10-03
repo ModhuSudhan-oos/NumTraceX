@@ -1,0 +1,12 @@
+ gitignore
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Sensitive files
+.password
+config.json
